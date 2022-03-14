@@ -1,0 +1,26 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "A pomodoro timer application built with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx browser-sync start -sw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecksdee03/pomodoro.timer"
+  },
+  "keywords": [
+    "pomodoro",
+    "javascript"
+  ],
+  "author": "Ecksdee03 <https://github.com/Ecksdee03/pomodoro.timer>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ecksdee03/pomodoro.timer"
+  },
+  "homepage": "https://github.com/Ecksdee03/pomodoro.timer#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
